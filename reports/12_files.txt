@@ -1,0 +1,11 @@
+.gitignore
+c10.txt
+c3.txt
+c4.txt
+c5.txt
+c6.txt
+c8.txt
+c9.txt
+git_history.txt
+main.py
+test_file.txt

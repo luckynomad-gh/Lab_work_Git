@@ -1,0 +1,15 @@
+  IshPR                         91a07ad [origin/IshPR] Добавлена обратная операция (изменение через веб версию)
+  backup-IshPR                  91a07ad Добавлена обратная операция (изменение через веб версию)
+  backup-before-task11-master   093a485 C5
+  backup-before-task11-schema-a f8c2480 Merge branch 'test'
+  backup-before-task11-schema-b 093a485 C5
+  backup-before-task11-test     2a5a200 C6+C7
+  backup-master                 91a07ad Добавлена обратная операция (изменение через веб версию)
+  backup-master-old             e6cb84a C10'
+  backup-server-old             e6cb84a C10'
+  client                        e63f262 C9'
+* master                        0521312 [origin/master] C10'
+  schema-a                      f8c2480 Merge branch 'test'
+  schema-b                      093a485 C5
+  server                        0521312 [origin/server] C10'
+  test                          2a5a200 C6+C7

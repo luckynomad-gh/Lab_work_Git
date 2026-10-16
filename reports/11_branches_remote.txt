@@ -1,0 +1,17 @@
+  origin/HEAD -> origin/IshPR
+  origin/IshPR
+  origin/backup-IshPR
+  origin/backup-before-task11-master
+  origin/backup-before-task11-schema-a
+  origin/backup-before-task11-schema-b
+  origin/backup-before-task11-test
+  origin/backup-master
+  origin/backup-master-old
+  origin/backup-server-old
+  origin/client
+  origin/master
+  origin/schema-a
+  origin/schema-b
+  origin/schema_a
+  origin/server
+  origin/test

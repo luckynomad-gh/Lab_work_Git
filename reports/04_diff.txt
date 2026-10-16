@@ -1,0 +1,24 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..605550b
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,6 @@
++__pycache__/
++*.pyc
++*.exe
++*.dll
++*.so
++*.o
+\ No newline at end of file
+diff --git a/main.py b/main.py
+index 86d8509..b46b59a 100644
+--- a/main.py
++++ b/main.py
+@@ -1 +1,4 @@
+-print('Программа запущена')
++a = int(input("Введите число a: "))
++b = int(input("Введите число b: "))
++print(f"Вы ввели: {a} и {b}")
++print(f"Произведение a и b:  {a * b}")
+\ No newline at end of file
